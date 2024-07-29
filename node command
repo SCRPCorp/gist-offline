@@ -1,0 +1,1 @@
+find . -type f -name 'offline-scrp.js' -exec node {} \;
