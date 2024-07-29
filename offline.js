@@ -10,7 +10,7 @@ client.once('ready', () => {
     // Create the embed
     const embed = new EmbedBuilder()
         .setTitle('SCRP Global Outage')
-        .setDescription('Unfortunately at this time SCRP\'s utility bots and partnering bots are experiencing an outage, we are working to fix this issue and we will keep you updated via our discord: https://discord.com/invite/XSvskAUzdx\n\n# This has been sent to all SCRP\'s bots, if your bot is actively running with working commands you are permitted to use it.')
+        .setDescription('Unfortunately at this time SCRP\'s utility bots and partnering bots are experiencing an outage, we are working to fix this issue and we will keep you updated via our discord: https://discord.com/invite/XSvskAUzdx\n\n-# This has been sent to all SCRP\'s bots, if your bot is actively running with working commands you are permitted to use it.')
         .setColor('Red')
         .setThumbnail('https://assets-cdn.scflrlp.com/images/embeds/SCRP.png');
 
